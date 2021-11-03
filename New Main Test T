@@ -1,4 +1,3 @@
-Gh
-jf
-gfd
-dsfdgh
+Fiddler Everywhere provides a powerful debugging technique for editing the captured traffic.
+
+Instead of testing your API or a website through the UI and making multiple clicks, you can reload the desired session in the Composer tab, make edits to the desired values, and re-execute the request.
